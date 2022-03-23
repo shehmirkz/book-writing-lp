@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>Page Not Found</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="//fonts.googleapis.com/css?family=Capriola" rel="stylesheet" type="text/css" />
+<link href="https://www.videojeeves.com/public/404/css/style404.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<body>
+<div class="wrap-404">
+<div class="logo-404">
+<img src="https://www.videojeeves.com/public/404/img/404-snow.gif">
+<p> Sorry - File not Found!</p>
+<div class="sub">
+<p><a href="/"> Back to Home</a></p>
+</div>
+</div>
+</div>
+<div class="footer-404">
+
+
+
+</div>
+</body>
+<script type="text/javascript">
+   window.setTimeout(function() {
+    window.location.href = '/';
+}, 5000);
+ </script>
+</html>
